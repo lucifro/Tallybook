@@ -1,6 +1,6 @@
-# Tallybook记账本系统技术方案文档 {#tallybook记账本系统技术方案文档 .TOC-Heading}
+# Tallybook记账本系统技术方案文档
  如果此项目对你有帮助请给我一个Star，感谢！
- 如有问题请联系 wx : Chasin7gdreams
+ 如有问题请联系 wx : Chasin7gdreams  (支持各种软件、网页定制、大学生作业 + 毕业设计)
 ## 1. 摘要与关键词
 
 ### 摘要
